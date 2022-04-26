@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WebTek
-- 👀 I’m interested in th Azure Cloud, ADFS, WAP, Microsoft 365 and PowerShell scripting
-- 🌱 I’m currently learning how to utilize the PowerShell CLI to gather information about our tenant.
-- 💞️ I’m looking to collaborate on PowerShell scripts and Azure.
-- 📫 How to reach me, tomstrader@gmail.com or 803-280-3540
+- 👀 My interests are Cloud environments, IAM, Microsoft 365, Power Automate, Power Apps and PowerShell scripting.
+- 🌱 I’m currently working on utilizing PowerShell to audit our Azure cloud environment and how to utilize Power Automate to create automation for business processes.
+- 💞️ I’m looking to collaborate on how to automate processes using Power Automate and Power Apps.
+- 📫 How to reach me, tom@sophohelp.com.
 
 <!---
 WebTek/WebTek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
